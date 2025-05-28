@@ -1,0 +1,41 @@
+# Arquivos de configuração
+*.env
+*.config
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+temp/
+
+# Arquivos de backup do banco
+*.bak
+*.backup
+dump/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de credenciais
+credentials.json
+secrets.yaml
+*_credentials.*
+
+# Arquivos de cache
+.cache/
+__pycache__/
+*.pyc
+
+# Arquivos de dados sensíveis
+data/sensitive/
+private/ 
