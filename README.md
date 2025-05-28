@@ -66,9 +66,6 @@ Este repositório demonstra domínio técnico em:
 ## 🔗 Portfólio Completo
 Este projeto faz parte do meu portfólio de soluções para bancos de dados. Explore meus outros projetos para uma visão completa das minhas habilidades técnicas.
 
-## 📫 Contato
-[Seus dados de contato aqui]
-
 ---
 
 ⚡ **Especialista em otimização e gestão de bancos de dados de alta performance com experiência comprovada em soluções para grandes volumes de dados.** 
